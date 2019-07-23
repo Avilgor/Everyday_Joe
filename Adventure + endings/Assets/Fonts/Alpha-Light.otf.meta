@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a772015a673af554b832a80906ebd3ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alpha
+  fontNames:
+  - Alpha
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97bbd09f34d82cc4cab7f5af474668e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
